@@ -12,3 +12,6 @@ ns.exitgames.io | 127.0.0.1:5058
 ```
 
 It is recommended to use this alongside PhotonLauncher and LuxonServer.
+
+
+Feel free to fork/modify/redistribute this as you please.
