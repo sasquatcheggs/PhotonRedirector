@@ -12,6 +12,7 @@ ns.exitgames.io | 127.0.0.1:5058
 ```
 
 It is recommended to use this alongside PhotonLauncher and LuxonServer.
+I plan to add injection to PhotonLauncher, but winmm can be used for now.
 
 
 Feel free to fork/modify/redistribute this as you please.
